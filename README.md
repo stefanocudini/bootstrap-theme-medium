@@ -1,5 +1,14 @@
 # bootstrap-theme-medium
 
+## Contents
+*bootstrap-theme-medium.css*
+```css
+* {
+  background-color: white;
+  border-color: white;
+}
+```
+
 ## Usage
 Include the file *bootstrap-theme-medium.css* at the end of the content of your *<head>*
 
