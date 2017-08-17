@@ -10,4 +10,6 @@ Include the file *bootstrap-theme-medium.css* at the end of the content of your 
 </head>
 ```
 
-Enjoy! :)
+Enjoy!
+
+Now your users have space for their creativity!
