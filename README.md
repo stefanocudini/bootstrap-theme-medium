@@ -21,4 +21,4 @@ Include the file *bootstrap-theme-medium.css* at the end of the content of your 
 
 Enjoy!
 
-Now your users have space for their creativity!
+Now your users have space for their creativity without distractions!
