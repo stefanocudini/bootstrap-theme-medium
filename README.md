@@ -10,7 +10,7 @@
 ```
 
 ## Usage
-Include the file *bootstrap-theme-medium.css* at the end of the content of your *head*
+Include the file *bootstrap-theme-medium.css* at bottom of your *head*
 
 ```html
 <head>
