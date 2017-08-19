@@ -22,3 +22,6 @@ Include the file *bootstrap-theme-medium.css* at the end of the content of your 
 Enjoy! -_-
 
 Now your users have space for their creativity without distractions! ^_^
+
+## License
+Lincesed under [WTFPL](http://www.wtfpl.net/) license
